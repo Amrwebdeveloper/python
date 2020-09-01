@@ -22,3 +22,6 @@ def getNumbers(array):
 testArarry = [56485,35.5,(410),('sdf','asd',34),'Amr',('wer',45.985),(452,'word'),23,{'aaa':123,'bbb':456}]
 
 getNumbers(testArarry)
+
+#output >>
+#[56485, 35.5, 410, 34, 45.985, 452, 23, 123, 456]
