@@ -14,3 +14,11 @@ def getNumbers(array):
                 if type(y) == int or type(y) == float:
                     numbersArray.append (y)
     return numbersArray
+
+
+
+# How to use...
+
+testArarry = [56485,35.5,(410),('sdf','asd',34),'Amr',('wer',45.985),(452,'word'),23,{'aaa':123,'bbb':456}]
+
+getNumbers(testArarry)
